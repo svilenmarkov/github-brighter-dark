@@ -1,5 +1,5 @@
 @-moz-document domain("github.com") {
-    [data-color-mode="dark"] {
+    [data-color-mode="dark"] * {
         --color-bg-canvas: hsl(218, 14%, 11%);
         --color-bg-canvas-inset: hsl(218, 14%, 9%);
         --color-bg-primary: hsl(218, 14%, 11%);
