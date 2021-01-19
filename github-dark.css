@@ -16,5 +16,6 @@
         --color-calendar-graph-day-bg: hsl(218, 14%, 13%);
         --color-input-bg: hsl(218, 19%, 10%);
         --color-calendar-graph-day-border: hsl(218, 14%, 14.5%);
+        --color-markdown-code-bg: rgba(240,246,252,0.10);
     }
 }
